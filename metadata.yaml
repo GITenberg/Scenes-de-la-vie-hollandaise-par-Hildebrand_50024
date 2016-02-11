@@ -1,0 +1,31 @@
+_repo: Scenes-de-la-vie-hollandaise-par-Hildebrand_50024
+contributor:
+  translator:
+    agent_name: Wocquier, Léon
+    gutenberg_agent_id: '45662'
+    url: http://www.gutenberg.org/2009/agents/45662
+creator:
+  author:
+    agent_name: Hildebrand
+    aliases:
+    - Beets, Nicolaas
+    - Beets, Nicolaus
+    birthdate: 1814
+    deathdate: 1903
+    gutenberg_agent_id: '6404'
+    url: http://www.gutenberg.org/2009/agents/6404
+    wikipedia: http://en.wikipedia.org/wiki/Nicolaas_Beets
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2015-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50024'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Scènes de la vie hollandaise par Hildebrand
+url: http://www.gutenberg.org/ebooks/50024
